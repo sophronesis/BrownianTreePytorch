@@ -11,11 +11,9 @@ White - frozen particles
 Blue - moving particles
 Other - different time slices of frozen particles
 
-![](https://i.imgur.com/rImhRHk.gif)
-![](https://i.imgur.com/EPmigvI.gif)
-![](https://i.imgur.com/QadTPct.gif)
-![](https://i.imgur.com/krlWsTH.gif)
-Experiments with animation and different crystalisation points
+
+Experiments with animation and different crystalisation points  
+[Link](https://imgur.com/a/WBqmHz7)
 
 ## Instalation
 ```
