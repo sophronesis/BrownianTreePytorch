@@ -12,8 +12,8 @@ Blue - moving particles
 Other - different time slices of frozen particles
 
 
-Experiments with animation and different crystalisation points  
-[Link](https://imgur.com/a/WBqmHz7)
+## Animated experiments with different crystalisation points:  
+### [Imgur](https://imgur.com/a/WBqmHz7)
 
 ## Instalation
 ```
