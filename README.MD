@@ -8,7 +8,7 @@ Grey - moving particles
 White - frozen particles
 
 ![](pics/pic2.png)
-Blue - moving particles
+Blue - moving particles  
 Other - different time slices of frozen particles
 
 
