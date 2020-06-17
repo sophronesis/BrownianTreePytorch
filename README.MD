@@ -39,3 +39,6 @@ gpu+pytorch|301|10|10000|47
 ## Tested on
 * CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz
 * GPU: GeForce GTX 1070
+
+## License
+This code is freely available for free non-commercial use, and may be redistributed under these conditions. Third-party librariers are subject to their respective licenses.
